@@ -8,10 +8,10 @@ The program implements a stack of characters to determine if the string entered 
 
 |   #   | File             | Description                                            |
 | :---: | ---------------- | --------------------------------------------------     |
-|   1   |    [Main.cpp](https://github.com/Coop-Wolf/3013-Algorithms/blob/main/Assignments/P02/main.cpp)      | Main driver of my project.                     |
-|   2   |    [json.hpp](https://github.com/Coop-Wolf/3013-Algorithms/blob/main/Assignments/P02/json.hpp)      | Cpp file for stack class.                |
-|   3   |    [mygetch.hpp](https://github.com/Coop-Wolf/3013-Algorithms/blob/main/Assignments/P02/mygetch.hpp)   | header file for stack calss.                |
-|   4   |    [animals.txt](https://github.com/Coop-Wolf/3013-Algorithms/blob/main/Assignments/P02/animals.txt)   | 
+|   1   |    [Palindrome.cpp](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Palindrom.cpp)      | Main driver of my project.                     |
+|   2   |    [Stk.cpp](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Stk.cpp)      | Cpp file for stack class.                |
+|   3   |    [Stk.h](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/stk.h)   | header file for stack calss.                |
+|   4   |    [Results.txt](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Results.txt)   | output text file of the program.
 
 ### Instructions
 
