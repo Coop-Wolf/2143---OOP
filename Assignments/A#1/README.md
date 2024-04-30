@@ -1,4 +1,4 @@
-## P02 - AutoComplete
+## A#1 - Palindrome
 ### Cooper Wolf
 ### Description:
 
