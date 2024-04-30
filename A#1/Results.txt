@@ -1,0 +1,10 @@
+***********************************
+*   Cooper Wolf                   *
+*   Program 1: Palindromes        *
+*   CMPS 2143 - 101               *
+***********************************
+
+Mom is a palindrome.
+RaceCar is a palindrome.
+Dog is not a palindrome.
+Computer is not a palindrome.
