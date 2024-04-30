@@ -10,8 +10,8 @@ The program implements a stack of characters to determine if the string entered 
 | :---: | ---------------- | --------------------------------------------------     |
 |   1   |    [Palindrome.cpp](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Palindrome.cpp)      | Main driver of my project.                     |
 |   2   |    [Stk.cpp](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Stk.cpp)      | Cpp file for stack class.                |
-|   3   |    [Stk.h](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/stk.h)   | header file for stack calss.                |
-|   4   |    [Results.txt](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Results.txt)   | output text file of the program.
+|   3   |    [Stk.h](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/stk.h)   | Header file for stack calss.                |
+|   4   |    [Results.txt](https://github.com/Coop-Wolf/2143-OOP/blob/main/A%231/Results.txt)   | Output text file of the program.
 
 ### Instructions
 
