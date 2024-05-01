@@ -1,0 +1,11 @@
+10
+P Abel B Dead Mr 
+S Mark G Taxed Mr 3.5 ECON
+S Paul W Ships Mr 3.3 EDUC
+P Noah N Boate Mr
+G Luke S Right Mr 4.0 NURS Platt Controlling HighBlood Pressure
+N Esau L Haire Mr 1.8
+G Carl M Sagan Mr 3.9 CMPS Colmenares Software Reliablility Engineering
+N Ruth N Wheat Ms 2.6 
+S John P Loved Mr 2.0 ENGL
+P Adam D Snake Mr

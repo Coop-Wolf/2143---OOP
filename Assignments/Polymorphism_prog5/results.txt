@@ -1,0 +1,21 @@
+*********************************************
+*       Cooper Wolf                         *
+*       CMPS 2143 - 101                     *
+*       Program 5: Polymorphism             *
+*********************************************
+
+There are 7 students attending MSU
+--------------------------------------------------
+Mr Mark G. Taxed with id: M1 gpa: 3.5 course: ECON 
+Mr Paul W. Ships with id: M2 gpa: 3.3 course: EDUC 
+Mr Luke S. Right with id: M3 gpa: 4.0 course: NURS  with thesis advisor: Platt and dissertation topic: Controlling HighBlood Pressure
+Mr Esau L. Haire with id: M4 gpa: 1.8 course: NonDegree 
+Mr Carl M. Sagan with id: M5 gpa: 3.9 course: CMPS  with thesis advisor: Colmenares and dissertation topic: Software Reliablility Engineering
+Ms Ruth N. Wheat with id: M6 gpa: 2.6 course: NonDegree 
+Mr John P. Loved with id: M7 gpa: 2.0 course: ENGL 
+--------------------------------------------------
+
+Carl's new information
+--------------------------------------------------
+Dr. Carl M. Sagan with id: M5 gpa: 3.9 course: CMPS  with thesis advisor: Colmenares and dissertation topic: Software Reliablility Engineering--------------------------------------------------
+--------------------------------------------------
